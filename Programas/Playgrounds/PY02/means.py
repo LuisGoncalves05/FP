@@ -1,0 +1,5 @@
+number_1 = float(input())
+number_2 = float(input())
+number_3 = float(input())
+mean = ((number_1 + number_2 + number_3) / 3)
+print (round(mean, ndigits = 2))
